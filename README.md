@@ -12,4 +12,4 @@ yarn dev
 pnpm dev
 ```
 
-## Start editing index.tsx
+\*\* Start editing index.tsx
